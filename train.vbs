@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "cmd /c K:\Python_script\keras-yolo3\train.bat",0
